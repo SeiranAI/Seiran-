@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  📖 [Documentation](https://ai16z.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
+  📖 [X](https://x.com/Seiransol) | 🎯 [PUMP FUN](https://pump.fun/board)
   
 </div>
 
